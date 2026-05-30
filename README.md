@@ -1,10 +1,10 @@
-<a href="https://github.com/imshrimun04">
+<a href="https://github.com/Shrimun">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrimun%20Narayana%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=16" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/imshrimun04">
-    <img src="https://komarev.com/ghpvc/?username=imshrimun04&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Shrimun">
+    <img src="https://komarev.com/ghpvc/?username=Shrimun&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   </a>
   <a href="mailto:imshrimun04@gmail.com">
     <img src="https://img.shields.io/badge/Email-imshrimun04%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" />
@@ -12,8 +12,8 @@
   <a href="https://linkedin.com/in/shrimun">
     <img src="https://img.shields.io/badge/LinkedIn-Shrimun%20Narayana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/imshrimun04">
-    <img src="https://img.shields.io/badge/GitHub-imshrimun04-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/Shrimun">
+    <img src="https://img.shields.io/badge/GitHub-Shrimun-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 class ShrimunNarayanaS:
     def __init__(self):
         self.name        = "Shrimun Narayana S"
-        self.location    = "Tamil Nadu, India 🇮🇳"
+        self.location    = "Tamil Nadu, India"
         self.degree      = "B.Tech CSE (Data Science) — KARE, 2026"
         self.email       = "imshrimun04@gmail.com"
 
@@ -105,9 +105,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=imshrimun04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=400&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shrimun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=400&cache_seconds=86400" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshrimun04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&card_width=320&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&card_width=320&cache_seconds=86400" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=imshrimun04&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&date_format=M+j%5B%2C+Y%5D&card_width=550" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=Shrimun&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&date_format=M+j%5B%2C+Y%5D&card_width=550" />
 </div>
 
 ---
@@ -123,7 +123,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imshrimun04&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Shrimun's%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrimun&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Shrimun's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imshrimun04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrimun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -243,8 +243,8 @@ print(me.motto())
 🧠 Machine Learning & Deep Learning  →  Neural Networks, CNNs, Transfer Learning, Model Deployment
 📊 Data Visualization & BI Tools     →  Power BI, Tableau, Plotly Dash, Streamlit
 🔗 LLM & GenAI Engineering           →  RAG Pipelines, LangChain, Prompt Engineering, Fine-tuning
-☁️  Cloud & Data Engineering          →  AWS (S3, Lambda, Glue), GCP BigQuery, Airflow
-🛠️  MLOps & Production ML             →  MLflow, Docker, CI/CD for ML, Model Monitoring
+☁️ Cloud & Data Engineering          →  AWS (S3, Lambda, Glue), GCP BigQuery, Airflow
+🛠️ MLOps & Production ML             →  MLflow, Docker, CI/CD for ML, Model Monitoring
 ```
 
 ---
