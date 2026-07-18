@@ -42,14 +42,11 @@ class ShrimunNarayanaS:
         ]
 
         self.currently_learning = [
-            "Advanced ML & Deep Learning",
+            "Advanced AI & DS",
             "Power BI / Tableau Dashboards",
             "LLM Fine-tuning & RAG Pipelines",
-            "Cloud Data Engineering (AWS / GCP)"
+            "Cloud Data Engineering"
         ]
-
-        self.fun_fact = "I once predicted revenue 20% more accurately — \
-                         just by engineering the right features 🎯"
 
     def motto(self):
         return "Don't just collect data — make it talk. 📣"
